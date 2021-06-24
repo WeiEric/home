@@ -1,0 +1,32 @@
+body {
+	background: #323232;
+	margin: 0;
+	font-family: Verdana;
+	color: #F2F2F2;
+	padding: 0;
+}
+
+.navigationbar {
+	background: #646464;
+	margin: 0;
+	padding: 1em;
+	color: #F2F2F2;
+}
+
+ul {
+	list-style-type: none;
+}
+
+h1 {
+	text-align: center;
+}
+
+img {
+	width:100vw;
+	height:33vh;
+	object-fit: cover
+}
+
+skiimage {
+	object-fit: cover
+}
